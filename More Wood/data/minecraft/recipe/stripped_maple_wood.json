@@ -1,0 +1,17 @@
+{
+	"result": {
+		"id": "biomesoplenty:stripped_maple_wood",
+		"count": 4
+	},
+	"type": "crafting_shaped",
+	"group": "bark",
+	"pattern": [
+		"##",
+		"##"
+	],
+	"key": {
+		"#": {
+			"item": "biomesoplenty:stripped_maple_log"
+		}
+	}
+}

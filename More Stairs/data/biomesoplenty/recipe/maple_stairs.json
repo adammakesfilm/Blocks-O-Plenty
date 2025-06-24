@@ -1,0 +1,18 @@
+{
+	"result": {
+		"id": "biomesoplenty:maple_stairs",
+		"count": 8
+	},
+	"type": "crafting_shaped",
+	"pattern": [
+		"#  ",
+		"## ",
+		"###"
+	],
+	"key": {
+		"#": {
+			"item": "biomesoplenty:maple_planks"
+		}
+	},
+	"group": "wooden_stairs"
+}

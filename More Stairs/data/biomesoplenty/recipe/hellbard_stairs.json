@@ -1,0 +1,18 @@
+{
+	"result": {
+		"id": "biomesoplenty:hellbard_stairs",
+		"count": 8
+	},
+	"type": "crafting_shaped",
+	"pattern": [
+		"#  ",
+		"## ",
+		"###"
+	],
+	"key": {
+		"#": {
+			"item": "biomesoplenty:hellbard_planks"
+		}
+	},
+	"group": "wooden_stairs"
+}

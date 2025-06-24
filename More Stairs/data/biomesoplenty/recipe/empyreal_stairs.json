@@ -1,0 +1,18 @@
+{
+	"result": {
+		"id": "biomesoplenty:empyreal_stairs",
+		"count": 8
+	},
+	"type": "crafting_shaped",
+	"pattern": [
+		"#  ",
+		"## ",
+		"###"
+	],
+	"key": {
+		"#": {
+			"item": "biomesoplenty:empyreal_planks"
+		}
+	},
+	"group": "wooden_stairs"
+}

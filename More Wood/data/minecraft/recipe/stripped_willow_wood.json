@@ -1,0 +1,17 @@
+{
+	"result": {
+		"id": "biomesoplenty:stripped_willow_wood",
+		"count": 4
+	},
+	"type": "crafting_shaped",
+	"group": "bark",
+	"pattern": [
+		"##",
+		"##"
+	],
+	"key": {
+		"#": {
+			"item": "biomesoplenty:stripped_willow_log"
+		}
+	}
+}

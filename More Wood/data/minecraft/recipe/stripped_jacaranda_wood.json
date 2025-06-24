@@ -1,0 +1,17 @@
+woo{
+	"result": {
+		"id": "biomesoplenty:stripped_jacaranda_wood",
+		"count": 4
+	},
+	"type": "crafting_shaped",
+	"group": "bark",
+	"pattern": [
+		"##",
+		"##"
+	],
+	"key": {
+		"#": {
+			"item": "biomesoplenty:stripped_jacaranda_log"
+		}
+	}
+}

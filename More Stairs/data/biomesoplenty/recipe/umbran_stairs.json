@@ -1,0 +1,18 @@
+{
+	"result": {
+		"id": "biomesoplenty:umbran_stairs",
+		"count": 8
+	},
+	"type": "crafting_shaped",
+	"pattern": [
+		"#  ",
+		"## ",
+		"###"
+	],
+	"key": {
+		"#": {
+			"item": "biomesoplenty:umbran_planks"
+		}
+	},
+	"group": "wooden_stairs"
+}
