@@ -1,0 +1,18 @@
+{
+	"result": {
+		"id": "biomesoplenty:brimstone_brick_stairs",
+		"count": 8
+	},
+	"type": "crafting_shaped",
+	"pattern": [
+		"#  ",
+		"## ",
+		"###"
+	],
+	"key": {
+		"#": {
+			"item": "biomesoplenty:brimstone_bricks"
+		}
+	},
+	"group": "wooden_stairs"
+}

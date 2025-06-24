@@ -1,0 +1,18 @@
+{
+	"result": {
+		"id": "biomesoplenty:black_sandstone_stairs",
+		"count": 8
+	},
+	"type": "crafting_shaped",
+	"pattern": [
+		"#  ",
+		"## ",
+		"###"
+	],
+	"key": {
+		"#": {
+			"item": "biomesoplenty:black_sandstone"
+		}
+	},
+	"group": "wooden_stairs"
+}
